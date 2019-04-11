@@ -7,7 +7,7 @@ An API for handling Node.js project filepaths and more.
 
 # Install
 ```
-npm install project-folder
+npm install nodejs-project-folder
 ```
 
 # Documentation
