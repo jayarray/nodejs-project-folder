@@ -18,7 +18,7 @@ class PathBuilder {
     let parentName = parentDir.split(Path.sep).pop();
 
     if (parentName == 'node_modules') {
-      grandParentDir = Path.dirname(parentDir);
+      let grandParentDir = Path.dirname(parentDir);
       this.rootDir = grandParentDir;
     }
 
