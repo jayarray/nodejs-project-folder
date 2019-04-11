@@ -1,7 +1,7 @@
 # Description
-An API for managing Node.js project filepaths and more.
+An API for handling Node.js project filepaths and more.
 
-• Quickly and easily build a path string without having to know the project's directory path.
+• Quickly and easily build path strings to modules and directories without having to know the project's directory path.
 • Allows you to load modules using relative paths. (Works like magic!)
 
 
